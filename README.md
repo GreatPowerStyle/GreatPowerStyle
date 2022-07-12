@@ -1,25 +1,10 @@
-CrashInfo:
-java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionf{e810dac position=13 id=-1, oldPos=0, pLpos:0 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{3764950 VFED.V... ........ 0,0-720,423 #7f0a04cc app:id/rv_search_activity}, adapter:c.b.a.a.a.m@6b1ce65, layout:androidx.recyclerview.widget.LinearLayoutManager@db5d73a, context:com.skyd.imomoe.view.activity.SearchActivity@28c33a1
-	at androidx.recyclerview.widget.RecyclerView$Recycler.validateViewHolderForOffsetPosition()
-	at androidx.recyclerview.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline()
-	at androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition()
-	at androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition()
-	at androidx.recyclerview.widget.LinearLayoutManager$LayoutState.next()
-	at androidx.recyclerview.widget.LinearLayoutManager.layoutChunk()
-	at androidx.recyclerview.widget.LinearLayoutManager.fill()
-	at androidx.recyclerview.widget.LinearLayoutManager.onLayoutChildren()
-	at androidx.recyclerview.widget.RecyclerView.dispatchLayoutStep1()
-	at androidx.recyclerview.widget.RecyclerView.dispatchLayout()
-	at androidx.recyclerview.widget.RecyclerView.consumePendingUpdateOperations()
-	at androidx.recyclerview.widget.RecyclerView$1.run()
-	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:922)
-	at android.view.Choreographer.doCallbacks(Choreographer.java:724)
-	at android.view.Choreographer.doFrame(Choreographer.java:655)
-	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:908)
-	at android.os.Handler.handleCallback(Handler.java:819)
-	at android.os.Handler.dispatchMessage(Handler.java:104)
-	at android.os.Looper.loop(Looper.java:210)
-	at android.app.ActivityThread.main(ActivityThread.java:5982)
-	at java.lang.reflect.Method.invoke(Native Method)
-	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:852)
-	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:742)
+ - 👋 Hi, I’m @GreatPowerStyle
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+GreatPowerStyle/GreatPowerStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
